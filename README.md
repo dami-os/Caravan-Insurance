@@ -1,4 +1,4 @@
-# Caravan-Insurance - Data Analytics
+# Caravan Insurance Project - Data Analytics
 
 - Analysed the caravan customer
 dataset of an insurance company. 
